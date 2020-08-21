@@ -1,4 +1,5 @@
 # Aiffel Project
+2020.08.21: [Regressor, Data EDA](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e8_house_prediction_200820.ipynb)
 
 
 2020.08.19: [Data Preprocessing](https://github.com/yooonjiwon/Aiffel/blob/master/practice/trade_preprocessing_200819.ipynb)
