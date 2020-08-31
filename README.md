@@ -1,11 +1,21 @@
 # Aiffel Project
-2020.08.21: [Regressor, Data EDA](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e8_house_prediction_200820.ipynb)
+2020.08.31: 
+[Recommendation System](https://github.com/yooonjiwon/Aiffel/blob/master/practice/recomm_system_200831.ipynb)
+[cutoff, ROC](https://github.com/yooonjiwon/Aiffel/blob/master/practice/ROC_200831.ipynb)
+
+2020.08.25: [Likelihood(MLE, MAP)](https://github.com/yooonjiwon/Aiffel/blob/master/practice/Likelihood_200825.ipynb)
+
+2020.08.24: [Set & Distribution](https://github.com/yooonjiwon/Aiffel/blob/master/practice/Probability_200824.ipynb)
 
 
-2020.08.19: [Data Preprocessing](https://github.com/yooonjiwon/Aiffel/blob/master/practice/trade_preprocessing_200819.ipynb)
+2020.08.21: 
+[Image Modification](https://github.com/yooonjiwon/Aiffel/blob/master/practice/image_modification_200821.ipynb)
+[Regressor, Data EDA](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e8_house_prediction_200820.ipynb)
 
 
-2020.08.19: [Data Collection-API,Scraping](https://github.com/yooonjiwon/Aiffel/blob/master/practice/collecting_data_200819.ipynb)
+2020.08.19: 
+[Data Preprocessing](https://github.com/yooonjiwon/Aiffel/blob/master/practice/trade_preprocessing_200819.ipynb)
+[Data Collection-API,Scraping](https://github.com/yooonjiwon/Aiffel/blob/master/practice/collecting_data_200819.ipynb)
 
 
 2020.08.18: Recommendation
