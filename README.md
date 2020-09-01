@@ -1,8 +1,8 @@
 # Aiffel Project
 
 2020.09.01: Sentiment Analysis
-[text analysis glimpse & IMDB](https://github.com/yooonjiwon/Aiffel/blob/master/practice/Sentimental_analysis_200901.ipynb)
-[movie review](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e9_movie_review_sentiment_200901.ipynb)
+- [text analysis glimpse & IMDB](https://github.com/yooonjiwon/Aiffel/blob/master/practice/Sentimental_analysis_200901.ipynb)
+- [movie review](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e9_movie_review_sentiment_200901.ipynb)
 
 2020.08.31: 
 [Recommendation System](https://github.com/yooonjiwon/Aiffel/blob/master/practice/recomm_system_200831.ipynb)
