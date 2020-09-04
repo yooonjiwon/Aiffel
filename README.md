@@ -1,4 +1,5 @@
 # Aiffel Project
+2020.09.03: [Face Detection](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e10_sticker_200903.ipynb)
 
 2020.09.01: Sentiment Analysis
 - [text analysis glimpse & IMDB](https://github.com/yooonjiwon/Aiffel/blob/master/practice/Sentimental_analysis_200901.ipynb)
