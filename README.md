@@ -1,4 +1,6 @@
 # Aiffel Project
+2020.09.04: [Transfer Learning - VGG16, RestNet50](https://github.com/yooonjiwon/Aiffel/blob/master/practice/vgg16_resnet50_200904.ipynb)
+
 2020.09.03: [Face Detection](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e10_sticker_200903.ipynb)
 
 2020.09.01: Sentiment Analysis
