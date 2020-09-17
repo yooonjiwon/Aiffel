@@ -1,4 +1,10 @@
 # Aiffel Project
+2020.09.17: 
+-[Dimension Reduction - PCA, t-SNE](https://github.com/yooonjiwon/Aiffel/blob/master/practice/dimension_reduction_200917.ipynb)
+-[Image Segmentation - 아웃포커싱](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e14_image_segmentation_200917.ipynb)
+
+2020.09.16: [Face Emotion Detection](https://github.com/yooonjiwon/Aiffel/tree/master/exploration/e12_face2emoji)
+
 2020.09.05: [자연어 처리 - 인공지능 작사](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e11_songwriter_200908.ipynb)
 
 2020.09.04: [Transfer Learning - VGG16, RestNet50](https://github.com/yooonjiwon/Aiffel/blob/master/practice/vgg16_resnet50_200904.ipynb)
