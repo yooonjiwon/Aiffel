@@ -1,4 +1,7 @@
-# Aiffel Project
+# <p align="center"> Machine Learning Project </p>
+
+## These projects are about the computer vision, natural language processing.
+
 2020.09.17: 
 - [Dimension Reduction - PCA, t-SNE](https://github.com/yooonjiwon/Aiffel/blob/master/practice/dimension_reduction_200917.ipynb)
 - [Image Segmentation - 아웃포커싱](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e14_image_segmentation_200917.ipynb)
@@ -70,7 +73,9 @@
 - [e1_Rock_Scissor_Paper_200728.ipynb](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e1_Rock_Scissor_Paper_200728.ipynb)
 
 
-
+|No	| Name of Project	| Subject	| Description	|
+| :---: | :---:	| :---:	| :---:	|
+|1	|[Rock Scissor Paper Classification](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e1_Rock_Scissor_Paper_200728.ipynb) | Image Classification | Generated Rock, Scissor, Paper pictures with "Google Teachable Machine" [https://teachablemachine.withgoogle.com/]. Made simple image classifier with simple CNN network.
 
 
 
