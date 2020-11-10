@@ -1,6 +1,6 @@
 # <p align="center"> Machine Learning Project </p>
 
-## These projects are about the computer vision, natural language processing.
+- These projects are about the computer vision, natural language processing.
 
 2020.09.17: 
 - [Dimension Reduction - PCA, t-SNE](https://github.com/yooonjiwon/Aiffel/blob/master/practice/dimension_reduction_200917.ipynb)
@@ -62,12 +62,13 @@
 2020.08.04: Scraping & Classification
 - [e3_Scraping_news_articles_200804.ipynb](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e3_Scraping_news_articles_200804.ipynb) 
 
-
+## Computer Vision Task
+---
 
 |No	|Date	| Name of Project	| Subject	| Description	|
 | :---: | :---:	| :---:	| :---:	| :---:	|
-|1	|2020.07.28	|[Rock Scissor Paper Classification](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e1_Rock_Scissor_Paper_200728.ipynb) | Image Classification | Generated Rock, Scissor, Paper pictures with ["Google Teachable Machine"](https://teachablemachine.withgoogle.com/). Made image classifier with simple CNN network. |
-|2	|2020.07.30	|[Image classification](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e2_Image_classification_200730.ipynb) | Image Classification | Used sklearn library datasets of handwriting(MNIST), wine, breast cancer classification, and compared diverse models such as SGD, SVM, Random Forest, Decision Tree, Logistic Regression |
+|1	|2020.07.28	|[Rock Scissor Paper Classification](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e1_Rock_Scissor_Paper_200728.ipynb) | Image Classification | - Generated Rock, Scissor, Paper pictures with ["Google Teachable Machine"](https://teachablemachine.withgoogle.com/). - Made image classifier with simple CNN network. |
+|2	|2020.07.30	|[Image classification](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e2_Image_classification_200730.ipynb) | Image Classification | - Used [sklearn library datasets](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets) of handwriting(MNIST), wine, breast cancer classification. - Compared diverse models such as SGD, SVM, Random Forest, Decision Tree, Logistic Regression |
 |3	|2020.08.06	|[Flower Image Classification](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e4_flower_image_classification_200806.ipynb)
 
 
