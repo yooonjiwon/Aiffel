@@ -57,25 +57,18 @@
 - [e5_regression_200811.ipynb](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e5_regression_200811.ipynb)
 
 
-2020.08.06: Image Classification3
-- [e4_flower_image_classification_200806](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e4_flower_image_classification_200806.ipynb)
 
 
 2020.08.04: Scraping & Classification
 - [e3_Scraping_news_articles_200804.ipynb](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e3_Scraping_news_articles_200804.ipynb) 
 
 
-2020.07.30: Image Classification2
-- [e2_Image_classification_200730.ipynb](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e2_Image_classification_200730.ipynb)
 
-
-2020.07.28: Image Classification1
-- [e1_Rock_Scissor_Paper_200728.ipynb](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e1_Rock_Scissor_Paper_200728.ipynb)
-
-
-|No	| Name of Project	| Subject	| Description	|
-| :---: | :---:	| :---:	| :---:	|
-|1	|[Rock Scissor Paper Classification](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e1_Rock_Scissor_Paper_200728.ipynb) | Image Classification | Generated Rock, Scissor, Paper pictures with "Google Teachable Machine" [https://teachablemachine.withgoogle.com/]. Made simple image classifier with simple CNN network.
+|No	|Date	| Name of Project	| Subject	| Description	|
+| :---: | :---:	| :---:	| :---:	| :---:	|
+|1	|2020.07.28	|[Rock Scissor Paper Classification](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e1_Rock_Scissor_Paper_200728.ipynb) | Image Classification | Generated Rock, Scissor, Paper pictures with ["Google Teachable Machine"](https://teachablemachine.withgoogle.com/). Made image classifier with simple CNN network. |
+|2	|2020.07.30	|[Image classification](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e2_Image_classification_200730.ipynb) | Image Classification | Used sklearn library datasets of handwriting(MNIST), wine, breast cancer classification, and compared diverse models such as SGD, SVM, Random Forest, Decision Tree, Logistic Regression |
+|3	|2020.08.06	|[Flower Image Classification](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e4_flower_image_classification_200806.ipynb)
 
 
 
