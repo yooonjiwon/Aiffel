@@ -24,12 +24,12 @@
 ## Natural Language Processing
 |No	|Date	| Name of Project	| Subject	| Description	|
 | :---: | :---:	| :---:	| :---:	| :---:	|
-|1	|2020.08.04| [e3_Scraping_news_articles_200804.ipynb](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e3_Scraping_news_articles_200804.ipynb) | Classification |* naver 뉴스 기사를 크롤링 하여 나이브 베이즈 분류기로 뉴스 카테고리 분류하기 |
-|2	|2020.08.18| [music_recommendation_200818.ipynb](https://github.com/yooonjiwon/Aiffel/blob/master/practice/music_recommendation_200818.ipynb) |  Recommendation | * ALS(Alternating Least Squares)를 이용하여 가수 추천하기 |
-|3	|2020.08.18|[e7_movie_recommendation_200818.ipynb](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e7_movie_recommendation_200818.ipynb) | Recommendation | * ALS(Alternating Least Squares)를 이용하여 영화 추천하기 |
+|1	|2020.08.04| [News Article Classification](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e3_Scraping_news_articles_200804.ipynb) | Classification |* naver 뉴스 기사를 크롤링 하여 나이브 베이즈 분류기로 뉴스 카테고리 분류하기 |
+|2	|2020.08.18| [Artist Recommendation](https://github.com/yooonjiwon/Aiffel/blob/master/practice/music_recommendation_200818.ipynb) |  Recommendation | * ALS(Alternating Least Squares)를 이용하여 가수 추천하기 |
+|3	|2020.08.18|[Movie Recommendation](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e7_movie_recommendation_200818.ipynb) | Recommendation | * ALS(Alternating Least Squares)를 이용하여 영화 추천하기 |
 |4	|2020.09.01| [text analysis glimpse & IMDB](https://github.com/yooonjiwon/Aiffel/blob/master/practice/Sentimental_analysis_200901.ipynb) | Sentiment Analysis | * IMDB 영화 후기 텍스트를 통해 감성 분석 (영어) |
-|5	|2020.09.01| [movie review](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e9_movie_review_sentiment_200901.ipynb) | Sentiment Analysis | * 네이버 영화 리뷰 텍스트를 통한 감성 분석 (한국어) |
-|6	|2020.09.05| [자연어 처리 - 인공지능 작사](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e11_songwriter_200908.ipynb) |
+|5	|2020.09.01| [Moview Review Sentiment Analysis](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e9_movie_review_sentiment_200901.ipynb) | Sentiment Analysis | * 네이버 영화 리뷰 텍스트를 통한 감성 분석 (한국어) |
+|6	|2020.09.05| [자연어 처리 - 인공지능 작사](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e11_songwriter_200908.ipynb) |  Text Generator| * LSTM 모델로 작사하기 |
 |7	|2020.10.13| [뉴스기사 요약해보기](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e18_seq2seq_new_201012.ipynb) | Text Summarization | * 추상적 요약과 추출적 요약을 통한 뉴스기사 요약 |
 
 ## 기타
