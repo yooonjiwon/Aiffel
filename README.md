@@ -45,12 +45,12 @@
 |7	|2020.08.21|[Regressor, Data EDA](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e8_house_prediction_200820.ipynb)|
 |8	|2020.08.19|[Data Preprocessing](https://github.com/yooonjiwon/Aiffel/blob/master/practice/trade_preprocessing_200819.ipynb)|
 |9	|2020.08.19|[Data Collection-API,Scraping](https://github.com/yooonjiwon/Aiffel/blob/master/practice/collecting_data_200819.ipynb)|
-|10	|2020.08.13|[time_series_analysis_200813.ipynb](https://github.com/yooonjiwon/Aiffel/blob/master/practice/time_series_analysis_200813.ipynb)|
-|11	|2020.08.13|[e6_stock_prediction_200813.ipynb](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e6_stock_prediction_200813.ipynb)|
-|12	|2020.08.12|[Legendary_pokemon_200812.ipynb](https://github.com/yooonjiwon/Aiffel/blob/master/practice/Legendary_pokemon_200812.ipynb)|
-|13	|2020.08.11| [used_macbook_price_200811.ipynb](https://github.com/yooonjiwon/Aiffel/blob/master/practice/used_macbook_price_200811.ipynb)
-|14	|2020.08.11|[predictions_of_tips_amount_200811](https://github.com/yooonjiwon/Aiffel/blob/master/practice/predictions_of_tips_amount_200811.ipynb)|
-|15	|2020.08.12|[e5_regression_200811.ipynb](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e5_regression_200811.ipynb)|
+|10	|2020.08.13|[Time Series Analysis](https://github.com/yooonjiwon/Aiffel/blob/master/practice/time_series_analysis_200813.ipynb)|
+|11	|2020.08.13|[Stock Prediction](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e6_stock_prediction_200813.ipynb)|
+|12	|2020.08.12|[Data EDA, Visualization](https://github.com/yooonjiwon/Aiffel/blob/master/practice/Legendary_pokemon_200812.ipynb)|
+|13	|2020.08.11| [Prediction with Linear Regression](https://github.com/yooonjiwon/Aiffel/blob/master/practice/used_macbook_price_200811.ipynb)
+|14	|2020.08.11|[Prediction with Linear Regression2](https://github.com/yooonjiwon/Aiffel/blob/master/practice/predictions_of_tips_amount_200811.ipynb)|
+|15	|2020.08.12|[Regressor](https://github.com/yooonjiwon/Aiffel/blob/master/exploration/e5_regression_200811.ipynb)|
 
  
 
