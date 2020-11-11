@@ -35,6 +35,7 @@
 ## 기타
 
 |No	|Date	| Name of work	|
+| :---: | :---:	| :---:	|
 |1	|2020.09.17| [Dimension Reduction - PCA, t-SNE](https://github.com/yooonjiwon/Aiffel/blob/master/practice/dimension_reduction_200917.ipynb) |
 |2	|2020.08.31|[Recommendation System](https://github.com/yooonjiwon/Aiffel/blob/master/practice/recomm_system_200831.ipynb)|
 |3	|2020.08.31|[cutoff, ROC](https://github.com/yooonjiwon/Aiffel/blob/master/practice/ROC_200831.ipynb)|
